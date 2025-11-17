@@ -1,0 +1,869 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Predator\\Survivors-Like\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|c:\\users\\predator\\survivors-like\\assets\\scripts\\map\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\map\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\map\\chunktrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\map\\chunktrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\pickups\\treasurechest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickups\\treasurechest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\player\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\player\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\enemy\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\enemy\\enemyscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\player\\playercollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\pickups\\healingheart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickups\\healingheart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\pickups\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickups\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\pickups\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickups\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\dropratemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dropratemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\weapons\\auraweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\auraweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\weapons\\weapon effects\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\weapon effects\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\weapons\\projectileweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\projectileweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\weapons\\weapon effects\\weaponeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\weapon effects\\weaponeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\passive items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\passive items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\passive items\\accessory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\passive items\\accessory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\weapons\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\player\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\passive items\\accessorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\passive items\\accessorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\passive items\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\passive items\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\player\\characterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\characterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\enemy\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\map\\proprandomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\map\\proprandomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\weapons\\wrenchweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\wrenchweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\characterselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characterselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\weapons\\weapondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\weapondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\breakableprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DCBB80-94F0-9934-5C2D-1186768D47FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\breakableprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\chunktrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\chunktrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\proprandomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\proprandomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\weapons\\weapon base\\meleeweaponbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\weapons\\weapon base\\meleeweaponbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\weapons\\weapon base\\projectileweaponbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\weapons\\weapon base\\projectileweaponbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\weapons\\weapon behaviour\\garlicbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\weapons\\weapon behaviour\\garlicbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\weapons\\weapon base\\weaponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\weapons\\weapon base\\weaponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\weapons\\weapon behaviour\\knifebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\weapons\\weapon behaviour\\knifebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\weapons\\weapon controllers\\knifecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\weapons\\weapon controllers\\knifecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\weapons\\weapon controllers\\garliccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\weapons\\weapon controllers\\garliccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\weapons\\weaponscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\weapons\\weaponscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\weapons\\weaponevolutionblueprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\weapons\\weaponevolutionblueprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\passive items\\passiveitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\passive items\\passiveitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\passive items\\avengeremblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\passive items\\avengeremblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\passive items\\passiveitemscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\passive items\\passiveitemscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\passive items\\hermesboots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\passive items\\hermesboots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\player\\characterscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\player\\characterscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\player\\obsolete\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\player\\obsolete\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Predator\\Survivors-Like\\assets\\scripts\\interfaces\\icollectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\interfaces\\icollectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Editor\\WeaponDataEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Editor\\WeaponDataEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HealingHeart.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Pickups\\HealingHeart.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pickups\\HealingHeart.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Pickups\\HealingHeart.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pickups\\HealingHeart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:07:22.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerCollector.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Player\\PlayerCollector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerCollector.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Player\\PlayerCollector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerCollector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:27:42.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerInventory.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Player\\PlayerInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerInventory.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Player\\PlayerInventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerInventory.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAIwPEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:24:30.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TreasureChest.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Pickups\\TreasureChest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pickups\\TreasureChest.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Pickups\\TreasureChest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pickups\\TreasureChest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:45:32.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CharacterData.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Player\\CharacterData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\CharacterData.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Player\\CharacterData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\CharacterData.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:45:16.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowCIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:05:01.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SceneController.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\SceneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneController.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\SceneController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T08:19:31.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChunkTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Map\\ChunkTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Map\\ChunkTrigger.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Map\\ChunkTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Map\\ChunkTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:40:23.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MapController.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Map\\MapController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Map\\MapController.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Map\\MapController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Map\\MapController.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAADwv4kAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:40:41.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemyScriptableObject.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Enemy\\EnemyScriptableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyScriptableObject.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Enemy\\EnemyScriptableObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyScriptableObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:31:20.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerAnimator.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Player\\PlayerAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAnimator.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Player\\PlayerAnimator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAnimator.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:23:16.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Enemy\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyMovement.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Enemy\\EnemyMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyMovement.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T05:43:26.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Weapon.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Weapon.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAowBMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:25:07.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Player\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerStats.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Player\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerStats.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAcwIYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:45:59.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAwBUBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:34:59.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Enemy\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Enemy\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemySpawner.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAADwv1wAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:55:40.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Experience.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Pickups\\Experience.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pickups\\Experience.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Pickups\\Experience.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pickups\\Experience.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:25:10.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DropRateManager.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\DropRateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DropRateManager.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\DropRateManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DropRateManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:02:37.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pickup.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Pickups\\Pickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pickups\\Pickup.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Pickups\\Pickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pickups\\Pickup.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:39:16.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuraWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\AuraWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\AuraWeapon.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\AuraWeapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\AuraWeapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:32:03.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeaponEffect.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\Weapon Effects\\WeaponEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Weapon Effects\\WeaponEffect.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\Weapon Effects\\WeaponEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Weapon Effects\\WeaponEffect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:25:09.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProjectileWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\ProjectileWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\ProjectileWeapon.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\ProjectileWeapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\ProjectileWeapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:42:30.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\Weapon Effects\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Weapon Effects\\Projectile.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\Weapon Effects\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Weapon Effects\\Projectile.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAiwAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:29:43.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ItemData.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Passive Items\\ItemData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Passive Items\\ItemData.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Passive Items\\ItemData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Passive Items\\ItemData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:42:37.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EnemyStats.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Enemy\\EnemyStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyStats.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Enemy\\EnemyStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyStats.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAiwHUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:11:07.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AccessoryData.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Passive Items\\AccessoryData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Passive Items\\AccessoryData.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Passive Items\\AccessoryData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Passive Items\\AccessoryData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:13:50.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Accessory.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Passive Items\\Accessory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Passive Items\\Accessory.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Passive Items\\Accessory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Passive Items\\Accessory.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:08:39.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Passive Items\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Passive Items\\Item.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Passive Items\\Item.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Passive Items\\Item.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwFEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:31:49.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PropRandomizer.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Map\\PropRandomizer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Map\\PropRandomizer.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Map\\PropRandomizer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Map\\PropRandomizer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:41:22.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WrenchWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\WrenchWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\WrenchWeapon.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\WrenchWeapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\WrenchWeapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:05:15.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WeaponData.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\WeaponData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\WeaponData.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\WeaponData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\WeaponData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:36:19.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Player\\Obsolete\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Obsolete\\InventoryManager.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Player\\Obsolete\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Obsolete\\InventoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:23:11.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "WeaponDataEditor.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Editor\\WeaponDataEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\WeaponDataEditor.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Editor\\WeaponDataEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\WeaponDataEditor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:06:09.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CharacterSelector.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\CharacterSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterSelector.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\CharacterSelector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CharacterSelector.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA0wCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T12:14:02.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MeleeWeaponBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\Weapon Base\\MeleeWeaponBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Weapon Base\\MeleeWeaponBehaviour.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\Weapon Base\\MeleeWeaponBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Weapon Base\\MeleeWeaponBehaviour.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAnwCgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:07:58.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProjectileWeaponBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\Weapon Base\\ProjectileWeaponBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Weapon Base\\ProjectileWeaponBehaviour.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\Weapon Base\\ProjectileWeaponBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Weapon Base\\ProjectileWeaponBehaviour.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAADgv18AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:41:15.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GarlicBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\Weapon Behaviour\\GarlicBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Weapon Behaviour\\GarlicBehaviour.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\Weapon Behaviour\\GarlicBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Weapon Behaviour\\GarlicBehaviour.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAnwBMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:56:43.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "WeaponScriptableObject.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\WeaponScriptableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\WeaponScriptableObject.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\WeaponScriptableObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\WeaponScriptableObject.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA9wDEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:40:13.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "WeaponController.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\Weapon Base\\WeaponController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Weapon Base\\WeaponController.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\Weapon Base\\WeaponController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Weapon Base\\WeaponController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:25:56.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "KnifeBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\Weapon Behaviour\\KnifeBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Weapon Behaviour\\KnifeBehaviour.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\Weapon Behaviour\\KnifeBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Weapon Behaviour\\KnifeBehaviour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:50:40.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PassiveItem.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Passive Items\\PassiveItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Passive Items\\PassiveItem.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Passive Items\\PassiveItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Passive Items\\PassiveItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:40:14.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AvengerEmblem.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Passive Items\\AvengerEmblem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Passive Items\\AvengerEmblem.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Passive Items\\AvengerEmblem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Passive Items\\AvengerEmblem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:49:16.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PassiveItemScriptableObject.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Passive Items\\PassiveItemScriptableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Passive Items\\PassiveItemScriptableObject.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Passive Items\\PassiveItemScriptableObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Passive Items\\PassiveItemScriptableObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:38:15.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "WeaponEvolutionBlueprint.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\WeaponEvolutionBlueprint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\WeaponEvolutionBlueprint.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\WeaponEvolutionBlueprint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\WeaponEvolutionBlueprint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:13:57.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CharacterScriptableObject.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Player\\CharacterScriptableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\CharacterScriptableObject.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Player\\CharacterScriptableObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\CharacterScriptableObject.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:27:43.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "HermesBoots.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Passive Items\\HermesBoots.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Passive Items\\HermesBoots.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Passive Items\\HermesBoots.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Passive Items\\HermesBoots.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:42:09.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "KnifeController.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\Weapon Controllers\\KnifeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Weapon Controllers\\KnifeController.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\Weapon Controllers\\KnifeController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Weapon Controllers\\KnifeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:50:29.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BreakableProps.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\BreakableProps.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BreakableProps.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\BreakableProps.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BreakableProps.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:47:18.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ICollectible.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Interfaces\\ICollectible.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interfaces\\ICollectible.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Interfaces\\ICollectible.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interfaces\\ICollectible.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:16:37.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GarlicController.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\Weapon Controllers\\GarlicController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Weapon Controllers\\GarlicController.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\Weapons\\Weapon Controllers\\GarlicController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Weapon Controllers\\GarlicController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:48:35.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ChunkTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\ChunkTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChunkTrigger.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\ChunkTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChunkTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:16:19.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PropRandomizer.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\PropRandomizer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PropRandomizer.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\PropRandomizer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PropRandomizer.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwBgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:30:35.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CameraMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\CameraMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraMovement.cs",
+              "ToolTip": "C:\\Users\\Predator\\Survivors-Like\\Assets\\Scripts\\CameraMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:56:41.803Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

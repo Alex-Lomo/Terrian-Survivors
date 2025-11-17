@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02f5ac6d49b933447a8ea03ad4ffad8f, type: 3}
+  m_Name: Radiant Aura
+  m_EditorClassIdentifier: 
+  baseWeaponData: {fileID: 11400000, guid: 797098043fd517b45a6a90d3fdc059a3, type: 2}
+  requiredAccessory: {fileID: 11400000, guid: d6dc5b6aa01cb4d48aa2301d20f9ef5b, type: 2}
+  evolvedWeaponData: {fileID: 11400000, guid: 72fce37fb4808cb478632c1b87c7f5d3, type: 2}
+  evolvedWeapon: {fileID: 6418866436629235878, guid: 3c56e6c778580894484c031e1d896d46, type: 3}
