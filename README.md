@@ -22,9 +22,13 @@ This project explores gameplay architecture, stat systems, weapon mechanics, ene
 
 ## Project Structure
 Assets/
+
 ├─ Scripts/ # Gameplay logic (player, enemies, weapons, items, UI)
+
 ├─ Art/ # Sprites, animations, VFX
+
 ├─ Prefabs/ # Characters, enemies, weapons, collectibles
+
 └─ Scenes/ # Title, Character Select, Gameplay
 
 ## Requirements
